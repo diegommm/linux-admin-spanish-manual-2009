@@ -4,7 +4,8 @@ A Linux Administrators Manual (in Spanish) I wrote at the beginning of 2009 that
 
 The manual was printed in paper, and the print version is the file "Administración de Linux I 2009.0.pdf". The main sources is "Manual.odt".
 
-Huge thanks to (Adrián Pablo Alí)[https://www.linkedin.com/in/adrian-pablo-ali-31191850/], one of my bosses at Fortix (previously Tucumán Linux), mentor, and a great friend. He also provided feedback on the manual, and several fixes.
+Huge thanks to [Adrián Pablo Alí](https://www.linkedin.com/in/adrian-pablo-ali-31191850/), one of my bosses at Fortix (previously Tucumán Linux), mentor, and a great friend.
+He was the main editor, provided feedback on the manual, several fixes and inspiration.
 
 # Licence
 
