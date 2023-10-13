@@ -1,5 +1,8 @@
 # Administración de Linux I
-A Linux Administrators Manual (in Spanish) I wrote at the beginning of 2009.
+
+A Linux Administrators Manual (in Spanish) I wrote at the beginning of 2009 that was used as the main learning material for a course with the same name, targetted to systems administrators of local companies that were starting to work with Linux servers.
+
+The manual was printed in paper, and the print version is the file "Administración de Linux I 2009.0.pdf". The main sources is "Manual.odt".
 
 Huge thanks to Adrián Pablo Alí, one of my bosses at Fortix (previously Tucumán Linux), mentor, and a great friend.
 
